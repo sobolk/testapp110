@@ -1,0 +1,1 @@
+import * as gc from '@graphql-codegen/core';
